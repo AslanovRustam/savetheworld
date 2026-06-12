@@ -65,7 +65,7 @@ export const translations = {
     footer: {
       exploreH: "Explore", donorStories: "Donor stories",
       aboutH: "About", mission: "Our mission", reports: "Annual reports", sponsors: "Sponsors",
-      connectH: "Connect", copyright: "© 2026 Save The World — a recreation.",
+      connectH: "Connect", copyright: "© 2026 Save The World",
     },
   },
 
@@ -128,7 +128,7 @@ export const translations = {
     footer: {
       exploreH: "Explorer", donorStories: "Histoires de donneurs",
       aboutH: "À propos", mission: "Notre mission", reports: "Rapports annuels", sponsors: "Commanditaires",
-      connectH: "Nous suivre", copyright: "© 2026 Save The World — une recréation.",
+      connectH: "Nous suivre", copyright: "© 2026 Save The World",
     },
   },
 
@@ -191,7 +191,7 @@ export const translations = {
     footer: {
       exploreH: "Огляд", donorStories: "Історії донорів",
       aboutH: "Про нас", mission: "Наша місія", reports: "Річні звіти", sponsors: "Спонсори",
-      connectH: "Зв'язок", copyright: "© 2026 Save The World — відтворення.",
+      connectH: "Зв'язок", copyright: "© 2026 Save The World",
     },
   },
 };

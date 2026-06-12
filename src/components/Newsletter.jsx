@@ -13,7 +13,7 @@ export function Newsletter() {
   };
 
   return (
-    <section className="news">
+    <section className="news" id="subscribe">
       <div className="news__inner">
         <Reveal as="h3">{t.news.title}</Reveal>
         <Reveal as="form" className="news__form" onSubmit={submit}>

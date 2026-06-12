@@ -10,7 +10,7 @@ export function Join() {
         <Reveal as="p" className="section-tag">{t.join.tag}</Reveal>
         <LineTitle as="h2" className="join__title" lines={t.join.titleLines} />
         <Reveal as="p">{t.join.p}</Reveal>
-        <Reveal as="a" href="#" className="btn btn--solid btn--lg" data-cursor="hover">
+        <Reveal as="a" href="#subscribe" className="btn btn--solid btn--lg" data-cursor="hover">
           <span>{t.join.btn}</span>
         </Reveal>
       </div>
